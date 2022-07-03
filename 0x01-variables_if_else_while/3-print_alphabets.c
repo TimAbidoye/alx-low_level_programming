@@ -13,7 +13,7 @@ int main(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 		putchar(c);
-	for (a = 'Z'; a >= 'A'; a--)
+	for (a = 'A'; a <= 'Z'; a++)
 		putchar(a);
 
 	putchar('\n');
