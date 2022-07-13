@@ -24,3 +24,4 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 
 #endif
+void swap_int(int *a, int *b);
