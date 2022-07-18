@@ -13,4 +13,4 @@ void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
 
 #endif /*MAIN_H*/
-unsigned int _strspn(char *s, char *accept);
+char *_strpbrk(char *s, char *accept);
