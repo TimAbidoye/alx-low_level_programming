@@ -1,1 +1,2 @@
-libmy.a, main.h
+#!/bin/bash
+C - Static library
